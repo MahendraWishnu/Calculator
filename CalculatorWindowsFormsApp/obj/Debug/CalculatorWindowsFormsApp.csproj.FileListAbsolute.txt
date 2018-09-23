@@ -1,0 +1,20 @@
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
+C:\Users\ANIF\Desktop\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.form1.resources
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csprojAssemblyReference.cache
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.form1.resources
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+D:\kuliah\SEMESTER 3\mahendra\Calculator\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
